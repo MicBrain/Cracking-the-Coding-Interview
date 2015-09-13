@@ -2,7 +2,7 @@
 
 ### Solutions
 
-1. [Unique elements in a string][web1]
+1. [Check if string has unique characters][web1]
 
 
 
