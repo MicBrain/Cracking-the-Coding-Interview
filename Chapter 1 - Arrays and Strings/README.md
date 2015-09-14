@@ -3,6 +3,7 @@
 ### Solutions
 
 1. [Check if string has unique characters][web1]
+2. Reverse a null-terminated string
 
 
 
