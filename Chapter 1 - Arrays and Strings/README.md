@@ -5,6 +5,7 @@
 1. [Check if string has unique characters][web1]
 2. [Reverse a null-terminated string][web2]
 3. Space replacement in a string
+4. Permutation of strings
 
 
 
